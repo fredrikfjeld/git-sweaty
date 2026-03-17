@@ -27961,5 +27961,18 @@
     "start_date_local": "2026-03-15T12:06:42Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 45436.3,
+    "elevation_gain": 228.0,
+    "id": "17744832841",
+    "moving_time": 4927.0,
+    "name": "Zwift - Flat Out Fast in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-16T17:42:39Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
