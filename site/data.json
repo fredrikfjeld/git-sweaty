@@ -19367,6 +19367,51 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17744832841",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 17,
+      "name": "Zwift - Climb Portal - Mont Saint-Michel in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17768215498",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 17,
+      "name": "Zwift - Climb Portal: Cipressa at 50% Elevation in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17768532866",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 17,
+      "name": "Zwift - Climb Portal - Mont Saint-Michel in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17768621668",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 17,
+      "name": "Zwift - Climb Portal - Mont Saint-Michel in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17768711379",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 17,
+      "name": "Zwift - Climb Portal: Mur de Huy at 50% Elevation in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17768867211",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35259,6 +35304,19 @@
           "distance": 45436.3,
           "elevation_gain": 228.0,
           "moving_time": 4927.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17768215498",
+            "17768532866",
+            "17768621668",
+            "17768711379",
+            "17768867211"
+          ],
+          "count": 5,
+          "distance": 24006.9,
+          "elevation_gain": 300.0,
+          "moving_time": 3398.0
         }
       },
       "WeightTraining": {
@@ -35337,7 +35395,7 @@
       }
     }
   },
-  "generated_at": "2026-03-18T15:30:53.539409+00:00",
+  "generated_at": "2026-03-19T15:20:25.034667+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",

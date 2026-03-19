@@ -27974,5 +27974,70 @@
     "start_date_local": "2026-03-16T17:42:39Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 2102.7,
+    "elevation_gain": 31.0,
+    "id": "17768215498",
+    "moving_time": 410.0,
+    "name": "Zwift - Climb Portal - Mont Saint-Michel in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T17:03:45Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 12062.6,
+    "elevation_gain": 122.0,
+    "id": "17768532866",
+    "moving_time": 1563.0,
+    "name": "Zwift - Climb Portal: Cipressa at 50% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T17:11:12Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 2457.4,
+    "elevation_gain": 39.0,
+    "id": "17768621668",
+    "moving_time": 385.0,
+    "name": "Zwift - Climb Portal - Mont Saint-Michel in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T17:37:52Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 2604.5,
+    "elevation_gain": 37.0,
+    "id": "17768711379",
+    "moving_time": 394.0,
+    "name": "Zwift - Climb Portal - Mont Saint-Michel in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T17:44:42Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 4779.7,
+    "elevation_gain": 71.0,
+    "id": "17768867211",
+    "moving_time": 646.0,
+    "name": "Zwift - Climb Portal: Mur de Huy at 50% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T17:51:43Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
