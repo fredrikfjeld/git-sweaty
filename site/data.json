@@ -19421,6 +19421,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17803299709",
       "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 16,
+      "name": "Zwift - Tempo #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17819103251",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35335,6 +35344,15 @@
           "distance": 39293.2,
           "elevation_gain": 207.0,
           "moving_time": 4047.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17819103251"
+          ],
+          "count": 1,
+          "distance": 29511.3,
+          "elevation_gain": 268.0,
+          "moving_time": 3491.0
         }
       },
       "WeightTraining": {
@@ -35413,7 +35431,7 @@
       }
     }
   },
-  "generated_at": "2026-03-22T15:08:33.516314+00:00",
+  "generated_at": "2026-03-23T15:25:54.655527+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
