@@ -28065,5 +28065,18 @@
     "start_date_local": "2026-03-22T16:51:12Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 12730.5,
+    "elevation_gain": 99.0,
+    "id": "17831109790",
+    "moving_time": 1233.0,
+    "name": "Zwift - TT: Stage 6a: Zwift Games: Epiloch",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-23T19:21:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
