@@ -19448,6 +19448,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17854925820",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 17,
+      "name": "Zwift - Climb Portal: Poggio at 100% Elevation in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17866846600",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 17,
+      "name": "Zwift - Climb Portal: Oude Kwaremont at 100% Elevation in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17866936669",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 17,
+      "name": "Zwift - Climb Portal: C\u00f4te de la Redoute at 100% Elevation in France",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17867097500",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35389,6 +35416,17 @@
           "distance": 19644.7,
           "elevation_gain": 483.0,
           "moving_time": 2933.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17866846600",
+            "17866936669",
+            "17867097500"
+          ],
+          "count": 3,
+          "distance": 15330.599999999999,
+          "elevation_gain": 380.0,
+          "moving_time": 2289.0
         }
       },
       "WeightTraining": {
@@ -35467,7 +35505,7 @@
       }
     }
   },
-  "generated_at": "2026-03-26T15:32:14.642828+00:00",
+  "generated_at": "2026-03-27T15:20:57.953009+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
