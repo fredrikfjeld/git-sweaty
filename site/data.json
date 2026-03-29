@@ -19475,6 +19475,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17867097500",
       "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 16,
+      "name": "\u00c5rets f\u00f8rste ute #overtenning",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17890959758",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 14,
+      "name": "Svartskogrunden",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17901622038",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35086,6 +35104,24 @@
           "distance": 38774.9,
           "elevation_gain": 667.0,
           "moving_time": 8805.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17890959758"
+          ],
+          "count": 1,
+          "distance": 38313.3,
+          "elevation_gain": 680.0,
+          "moving_time": 5326.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17901622038"
+          ],
+          "count": 1,
+          "distance": 37964.5,
+          "elevation_gain": 652.0,
+          "moving_time": 5654.0
         }
       },
       "VirtualRide": {
@@ -35505,7 +35541,7 @@
       }
     }
   },
-  "generated_at": "2026-03-28T15:10:46.317787+00:00",
+  "generated_at": "2026-03-29T15:11:11.010343+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",

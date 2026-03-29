@@ -28130,5 +28130,31 @@
     "start_date_local": "2026-03-26T17:24:21Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 38313.3,
+    "elevation_gain": 680.0,
+    "id": "17890959758",
+    "moving_time": 5326.0,
+    "name": "\u00c5rets f\u00f8rste ute #overtenning",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-28T16:04:54Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 37964.5,
+    "elevation_gain": 652.0,
+    "id": "17901622038",
+    "moving_time": 5654.0,
+    "name": "Svartskogrunden",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-29T14:01:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

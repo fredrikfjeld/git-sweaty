@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T15:10:46.291582+00:00",
+  "generated_at": "2026-03-29T15:11:10.983985+00:00",
   "years": {
     "2010": {
       "Ride": {
@@ -15609,6 +15609,24 @@
           "distance": 38774.9,
           "elevation_gain": 667.0,
           "moving_time": 8805.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17890959758"
+          ],
+          "count": 1,
+          "distance": 38313.3,
+          "elevation_gain": 680.0,
+          "moving_time": 5326.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17901622038"
+          ],
+          "count": 1,
+          "distance": 37964.5,
+          "elevation_gain": 652.0,
+          "moving_time": 5654.0
         }
       },
       "VirtualRide": {
