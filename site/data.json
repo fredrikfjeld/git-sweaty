@@ -19502,6 +19502,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17925853666",
       "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 15,
+      "name": "Maridalen og GK",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17938998036",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35140,6 +35149,15 @@
           "distance": 37771.1,
           "elevation_gain": 642.0,
           "moving_time": 5430.0
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "17938998036"
+          ],
+          "count": 1,
+          "distance": 50418.5,
+          "elevation_gain": 964.0,
+          "moving_time": 7909.0
         }
       },
       "VirtualRide": {
@@ -35559,7 +35577,7 @@
       }
     }
   },
-  "generated_at": "2026-03-31T15:29:59.119292+00:00",
+  "generated_at": "2026-04-01T15:32:30.142563+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",

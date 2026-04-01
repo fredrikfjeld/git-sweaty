@@ -28169,5 +28169,18 @@
     "start_date_local": "2026-03-31T15:21:05Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 50418.5,
+    "elevation_gain": 964.0,
+    "id": "17938998036",
+    "moving_time": 7909.0,
+    "name": "Maridalen og GK",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T15:05:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
