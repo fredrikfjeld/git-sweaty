@@ -28182,5 +28182,18 @@
     "start_date_local": "2026-04-01T15:05:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 28446.5,
+    "elevation_gain": 159.0,
+    "id": "17948464343",
+    "moving_time": 2794.0,
+    "name": "Zwift - Group Ride: Stage 3 - The Zwift Big Spin",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-02T12:30:49Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
