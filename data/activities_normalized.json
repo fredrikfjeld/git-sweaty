@@ -28195,5 +28195,18 @@
     "start_date_local": "2026-04-02T12:30:49Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 41467.2,
+    "elevation_gain": 589.0,
+    "id": "17961617679",
+    "moving_time": 5304.0,
+    "name": "Zwift - Three Step Sisters",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-03T13:03:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

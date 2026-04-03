@@ -19520,6 +19520,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17948464343",
       "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 13,
+      "name": "Zwift - Three Step Sisters",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17961617679",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35517,6 +35526,15 @@
           "distance": 28446.5,
           "elevation_gain": 159.0,
           "moving_time": 2794.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17961617679"
+          ],
+          "count": 1,
+          "distance": 41467.2,
+          "elevation_gain": 589.0,
+          "moving_time": 5304.0
         }
       },
       "WeightTraining": {
@@ -35595,7 +35613,7 @@
       }
     }
   },
-  "generated_at": "2026-04-02T15:25:47.749790+00:00",
+  "generated_at": "2026-04-03T15:18:41.556964+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
