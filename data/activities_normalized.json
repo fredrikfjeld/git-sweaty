@@ -28208,5 +28208,18 @@
     "start_date_local": "2026-04-03T13:03:34Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 44492.2,
+    "elevation_gain": 346.0,
+    "id": "17987597490",
+    "moving_time": 4821.0,
+    "name": "Zwift - Bridge Toll",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-05T13:52:57Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
