@@ -28221,5 +28221,18 @@
     "start_date_local": "2026-04-05T13:52:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 55223.1,
+    "elevation_gain": 920.0,
+    "id": "18041926518",
+    "moving_time": 8341.0,
+    "name": "Cap de Formentor",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T13:52:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
