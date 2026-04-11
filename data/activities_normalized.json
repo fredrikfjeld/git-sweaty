@@ -28234,5 +28234,18 @@
     "start_date_local": "2026-04-09T13:52:13Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 97409.3,
+    "elevation_gain": 1999.0,
+    "id": "18055749560",
+    "moving_time": 16895.0,
+    "name": "Sa Calobra og s\u00e5nn",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-10T11:33:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

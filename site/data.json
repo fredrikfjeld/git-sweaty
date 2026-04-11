@@ -19547,6 +19547,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18041926518",
       "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 11,
+      "name": "Sa Calobra og s\u00e5nn",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18055749560",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35203,6 +35212,15 @@
           "distance": 55223.1,
           "elevation_gain": 920.0,
           "moving_time": 8341.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18055749560"
+          ],
+          "count": 1,
+          "distance": 97409.3,
+          "elevation_gain": 1999.0,
+          "moving_time": 16895.0
         }
       },
       "VirtualRide": {
@@ -35649,7 +35667,7 @@
       }
     }
   },
-  "generated_at": "2026-04-10T15:20:47.633887+00:00",
+  "generated_at": "2026-04-11T15:13:11.658938+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
