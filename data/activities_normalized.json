@@ -28247,5 +28247,18 @@
     "start_date_local": "2026-04-10T11:33:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 110737.0,
+    "elevation_gain": 2403.0,
+    "id": "18069803723",
+    "moving_time": 19369.0,
+    "name": "Andratx - Pollen\u00e7a \ud83d\udeb5\ud83c\udffc\u200d\u2640\ufe0f\ud83d\udeb5\ud83c\udffb\u200d\u2642\ufe0f\ud83d\udeb5\ud83c\udffb\u200d\u2642\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T12:36:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

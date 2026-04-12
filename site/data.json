@@ -19556,6 +19556,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18055749560",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 12,
+      "name": "Andratx - Pollen\u00e7a \ud83d\udeb5\ud83c\udffc\u200d\u2640\ufe0f\ud83d\udeb5\ud83c\udffb\u200d\u2642\ufe0f\ud83d\udeb5\ud83c\udffb\u200d\u2642\ufe0f",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18069803723",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35221,6 +35230,15 @@
           "distance": 97409.3,
           "elevation_gain": 1999.0,
           "moving_time": 16895.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18069803723"
+          ],
+          "count": 1,
+          "distance": 110737.0,
+          "elevation_gain": 2403.0,
+          "moving_time": 19369.0
         }
       },
       "VirtualRide": {
@@ -35667,7 +35685,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:13:11.658938+00:00",
+  "generated_at": "2026-04-12T15:15:44.787233+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
