@@ -19565,6 +19565,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18069803723",
       "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 16,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18093486134",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 10,
+      "name": "Petra, kloster, Sianu og motvind",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18105090753",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35239,6 +35257,24 @@
           "distance": 110737.0,
           "elevation_gain": 2403.0,
           "moving_time": 19369.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18093486134"
+          ],
+          "count": 1,
+          "distance": 53535.3,
+          "elevation_gain": 854.0,
+          "moving_time": 7342.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18105090753"
+          ],
+          "count": 1,
+          "distance": 109116.0,
+          "elevation_gain": 1043.0,
+          "moving_time": 15605.0
         }
       },
       "VirtualRide": {
@@ -35685,7 +35721,7 @@
       }
     }
   },
-  "generated_at": "2026-04-13T15:33:27.519444+00:00",
+  "generated_at": "2026-04-14T15:30:05.359848+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
