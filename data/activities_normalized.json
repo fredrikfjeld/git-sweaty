@@ -28312,5 +28312,18 @@
     "start_date_local": "2026-04-21T16:10:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 39979.8,
+    "elevation_gain": 645.0,
+    "id": "18221262004",
+    "moving_time": 5355.0,
+    "name": "ODP",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T05:35:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
