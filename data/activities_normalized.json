@@ -28351,5 +28351,18 @@
     "start_date_local": "2026-04-27T17:06:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 68376.0,
+    "elevation_gain": 947.0,
+    "id": "18322684818",
+    "moving_time": 10018.0,
+    "name": "Rundt Vestby",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T17:32:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -19628,6 +19628,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18280082352",
       "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 17,
+      "name": "Rundt Vestby",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18322684818",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35347,6 +35356,15 @@
           "distance": 27417.6,
           "elevation_gain": 719.0,
           "moving_time": 4974.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18322684818"
+          ],
+          "count": 1,
+          "distance": 68376.0,
+          "elevation_gain": 947.0,
+          "moving_time": 10018.0
         }
       },
       "Run": {
@@ -35813,7 +35831,7 @@
       }
     }
   },
-  "generated_at": "2026-04-30T15:38:41.105270+00:00",
+  "generated_at": "2026-05-01T15:24:47.260655+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
