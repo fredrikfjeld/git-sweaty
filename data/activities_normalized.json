@@ -28364,5 +28364,18 @@
     "start_date_local": "2026-04-30T17:32:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 16719.7,
+    "elevation_gain": 260.2,
+    "id": "18346289597",
+    "moving_time": 9087.0,
+    "name": "Sightseeing i G\u00f6teborg",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T12:24:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
