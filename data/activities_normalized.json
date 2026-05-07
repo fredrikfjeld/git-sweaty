@@ -28377,5 +28377,18 @@
     "start_date_local": "2026-05-02T12:24:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 37729.2,
+    "elevation_gain": 634.0,
+    "id": "18401374510",
+    "moving_time": 5472.0,
+    "name": "Svartskogrunden",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-06T17:11:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
