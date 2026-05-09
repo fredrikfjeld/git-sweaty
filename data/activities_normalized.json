@@ -28390,5 +28390,18 @@
     "start_date_local": "2026-05-06T17:11:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 33706.9,
+    "elevation_gain": 456.0,
+    "id": "18436960416",
+    "moving_time": 4425.0,
+    "name": "Maridalen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T11:53:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
