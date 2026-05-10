@@ -28403,5 +28403,18 @@
     "start_date_local": "2026-05-09T11:53:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 7532.4,
+    "elevation_gain": 153.7,
+    "id": "18452151793",
+    "moving_time": 2658.0,
+    "name": "Ekebergl\u00f8ping",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T14:04:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
