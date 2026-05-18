@@ -28429,5 +28429,18 @@
     "start_date_local": "2026-05-12T16:37:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 96313.7,
+    "elevation_gain": 1191.0,
+    "id": "18545725317",
+    "moving_time": 13418.0,
+    "name": "Str\u00f6mstad p\u00e5 17. mai",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T13:33:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

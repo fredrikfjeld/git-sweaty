@@ -19682,6 +19682,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18478466746",
       "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 13,
+      "name": "Str\u00f6mstad p\u00e5 17. mai",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18545725317",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35428,6 +35437,15 @@
           "distance": 33706.9,
           "elevation_gain": 456.0,
           "moving_time": 4425.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18545725317"
+          ],
+          "count": 1,
+          "distance": 96313.7,
+          "elevation_gain": 1191.0,
+          "moving_time": 13418.0
         }
       },
       "Run": {
@@ -35921,7 +35939,7 @@
       }
     }
   },
-  "generated_at": "2026-05-17T15:25:46.349328+00:00",
+  "generated_at": "2026-05-18T16:11:22.338809+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
