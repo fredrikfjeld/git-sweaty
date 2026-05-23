@@ -28468,5 +28468,18 @@
     "start_date_local": "2026-05-21T17:54:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 5311.4,
+    "elevation_gain": 121.3,
+    "id": "18622765622",
+    "moving_time": 1976.0,
+    "name": "Kampenl\u00f8ping",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-23T16:09:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

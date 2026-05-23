@@ -19709,6 +19709,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18597448500",
       "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 16,
+      "name": "Kampenl\u00f8ping",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18622765622",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35529,6 +35538,15 @@
           "distance": 5568.7,
           "elevation_gain": 182.0,
           "moving_time": 2185.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18622765622"
+          ],
+          "count": 1,
+          "distance": 5311.4,
+          "elevation_gain": 121.3,
+          "moving_time": 1976.0
         }
       },
       "VirtualRide": {
@@ -35975,7 +35993,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T15:55:47.812945+00:00",
+  "generated_at": "2026-05-23T15:27:18.149519+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
