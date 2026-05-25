@@ -28481,5 +28481,18 @@
     "start_date_local": "2026-05-23T16:09:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 19123.3,
+    "elevation_gain": 659.0,
+    "id": "18649378216",
+    "moving_time": 21465.0,
+    "name": "Inn til B\u00f8velstad \ud83c\udfd5\ufe0f",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-05-24T12:44:36Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

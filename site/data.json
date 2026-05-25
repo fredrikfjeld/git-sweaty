@@ -19718,6 +19718,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18622765622",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 12,
+      "name": "Inn til B\u00f8velstad \ud83c\udfd5\ufe0f",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18649378216",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35289,6 +35298,17 @@
       }
     },
     "2026": {
+      "Hike": {
+        "2026-05-24": {
+          "activity_ids": [
+            "18649378216"
+          ],
+          "count": 1,
+          "distance": 19123.3,
+          "elevation_gain": 659.0,
+          "moving_time": 21465.0
+        }
+      },
       "IceSkate": {
         "2026-01-11": {
           "activity_ids": [
@@ -35993,7 +36013,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T15:28:14.755018+00:00",
+  "generated_at": "2026-05-25T15:59:18.372291+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
