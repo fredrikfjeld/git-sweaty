@@ -19727,6 +19727,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/18649378216",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 5,
+      "name": "ODP",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18684397879",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35502,6 +35511,15 @@
           "distance": 36034.6,
           "elevation_gain": 537.0,
           "moving_time": 4890.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18684397879"
+          ],
+          "count": 1,
+          "distance": 39673.3,
+          "elevation_gain": 599.0,
+          "moving_time": 4965.0
         }
       },
       "Run": {
@@ -36013,7 +36031,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T16:20:34.284168+00:00",
+  "generated_at": "2026-05-28T16:28:55.217709+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
