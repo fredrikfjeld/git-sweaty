@@ -28507,5 +28507,18 @@
     "start_date_local": "2026-05-28T05:35:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 11954.9,
+    "elevation_gain": 75.2,
+    "id": "18704950276",
+    "moving_time": 3857.0,
+    "name": "Critical mass \u270a\ud83d\udeb2",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-05-29T17:36:42Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]

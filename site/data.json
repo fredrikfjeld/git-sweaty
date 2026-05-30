@@ -19736,6 +19736,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18684397879",
       "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 17,
+      "name": "Critical mass \u270a\ud83d\udeb2",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/18704950276",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35307,6 +35316,17 @@
       }
     },
     "2026": {
+      "EBikeRide": {
+        "2026-05-29": {
+          "activity_ids": [
+            "18704950276"
+          ],
+          "count": 1,
+          "distance": 11954.9,
+          "elevation_gain": 75.2,
+          "moving_time": 3857.0
+        }
+      },
       "Hike": {
         "2026-05-24": {
           "activity_ids": [
@@ -36031,7 +36051,7 @@
       }
     }
   },
-  "generated_at": "2026-05-29T16:20:12.051956+00:00",
+  "generated_at": "2026-05-30T15:29:39.551728+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
