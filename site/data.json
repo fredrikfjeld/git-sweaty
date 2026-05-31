@@ -19745,6 +19745,15 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/18704950276",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 10,
+      "name": "Vestby rundt i godt lag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18728957191",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35540,6 +35549,15 @@
           "distance": 39673.3,
           "elevation_gain": 599.0,
           "moving_time": 4965.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18728957191"
+          ],
+          "count": 1,
+          "distance": 68476.3,
+          "elevation_gain": 953.0,
+          "moving_time": 10425.0
         }
       },
       "Run": {
@@ -36051,7 +36069,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T15:29:39.551728+00:00",
+  "generated_at": "2026-05-31T15:31:30.504524+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
