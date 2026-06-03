@@ -19754,6 +19754,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18728957191",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 17,
+      "name": "Brannfjell",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18757996879",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35623,6 +35632,15 @@
           "distance": 5311.4,
           "elevation_gain": 121.3,
           "moving_time": 1976.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18757996879"
+          ],
+          "count": 1,
+          "distance": 8665.4,
+          "elevation_gain": 194.1,
+          "moving_time": 3184.0
         }
       },
       "VirtualRide": {
@@ -36069,7 +36087,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T16:33:48.829783+00:00",
+  "generated_at": "2026-06-03T16:36:22.853587+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
