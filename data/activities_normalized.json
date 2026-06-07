@@ -28546,5 +28546,18 @@
     "start_date_local": "2026-06-02T17:38:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 69697.1,
+    "elevation_gain": 1165.0,
+    "id": "18812506971",
+    "moving_time": 10291.0,
+    "name": "Niceodden",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T14:05:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
