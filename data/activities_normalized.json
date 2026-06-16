@@ -28572,5 +28572,18 @@
     "start_date_local": "2026-06-08T16:58:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 31049.8,
+    "elevation_gain": 705.0,
+    "id": "18931808655",
+    "moving_time": 5862.0,
+    "name": "Hauk\u00e5sen",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-15T17:05:09Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
