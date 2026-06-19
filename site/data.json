@@ -19799,6 +19799,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18959856483",
       "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 16,
+      "name": "Maridalen \u2600\ufe0f",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18973436418",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35632,6 +35641,15 @@
           "distance": 36083.9,
           "elevation_gain": 575.0,
           "moving_time": 5433.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18973436418"
+          ],
+          "count": 1,
+          "distance": 44670.8,
+          "elevation_gain": 657.0,
+          "moving_time": 5693.0
         }
       },
       "Run": {
@@ -36161,7 +36179,7 @@
       }
     }
   },
-  "generated_at": "2026-06-18T16:12:01.532924+00:00",
+  "generated_at": "2026-06-19T16:02:19.853984+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
