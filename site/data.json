@@ -19808,6 +19808,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18973436418",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 15,
+      "name": "Midsummer Patrol",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18988663753",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35650,6 +35659,15 @@
           "distance": 44670.8,
           "elevation_gain": 657.0,
           "moving_time": 5693.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18988663753"
+          ],
+          "count": 1,
+          "distance": 146000.0,
+          "elevation_gain": 1896.0,
+          "moving_time": 19294.0
         }
       },
       "Run": {
@@ -36179,7 +36197,7 @@
       }
     }
   },
-  "generated_at": "2026-06-19T16:02:19.853984+00:00",
+  "generated_at": "2026-06-20T15:36:23.532571+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",

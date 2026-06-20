@@ -28611,5 +28611,18 @@
     "start_date_local": "2026-06-18T16:42:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 146000.0,
+    "elevation_gain": 1896.0,
+    "id": "18988663753",
+    "moving_time": 19294.0,
+    "name": "Midsummer Patrol",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-19T15:54:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
