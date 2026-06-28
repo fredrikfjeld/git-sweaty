@@ -28650,5 +28650,18 @@
     "start_date_local": "2026-06-25T05:33:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 36122.5,
+    "elevation_gain": 913.0,
+    "id": "19099390939",
+    "moving_time": 6480.0,
+    "name": "5xGK",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T14:24:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -19835,6 +19835,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19057430420",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 14,
+      "name": "5xGK",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19099390939",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35704,6 +35713,15 @@
           "distance": 39598.8,
           "elevation_gain": 602.0,
           "moving_time": 4810.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19099390939"
+          ],
+          "count": 1,
+          "distance": 36122.5,
+          "elevation_gain": 913.0,
+          "moving_time": 6480.0
         }
       },
       "Run": {
@@ -36233,7 +36251,7 @@
       }
     }
   },
-  "generated_at": "2026-06-27T15:30:08.041894+00:00",
+  "generated_at": "2026-06-28T15:31:02.703459+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
