@@ -28689,5 +28689,18 @@
     "start_date_local": "2026-07-04T13:04:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 50835.0,
+    "elevation_gain": 443.0,
+    "id": "19194122328",
+    "moving_time": 7180.0,
+    "name": "Odense loop",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-05T18:30:35Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

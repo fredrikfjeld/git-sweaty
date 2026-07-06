@@ -19862,6 +19862,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19175217816",
       "year": 2026
+    },
+    {
+      "date": "2026-07-05",
+      "hour": 18,
+      "name": "Odense loop",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19194122328",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35749,6 +35758,15 @@
           "distance": 42832.4,
           "elevation_gain": 656.0,
           "moving_time": 5335.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19194122328"
+          ],
+          "count": 1,
+          "distance": 50835.0,
+          "elevation_gain": 443.0,
+          "moving_time": 7180.0
         }
       },
       "Run": {
@@ -36287,7 +36305,7 @@
       }
     }
   },
-  "generated_at": "2026-07-05T16:07:37.091302+00:00",
+  "generated_at": "2026-07-06T17:42:29.031857+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
