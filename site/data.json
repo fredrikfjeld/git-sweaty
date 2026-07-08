@@ -19871,6 +19871,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19194122328",
       "year": 2026
+    },
+    {
+      "date": "2026-07-08",
+      "hour": 11,
+      "name": "Schmitten - Der Schmittenhof Und Nebenhaus",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19230765176",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35482,6 +35491,15 @@
           "distance": 19123.3,
           "elevation_gain": 659.0,
           "moving_time": 21465.0
+        },
+        "2026-07-08": {
+          "activity_ids": [
+            "19230765176"
+          ],
+          "count": 1,
+          "distance": 19100.9,
+          "elevation_gain": 633.0,
+          "moving_time": 17057.0
         }
       },
       "IceSkate": {
@@ -36305,7 +36323,7 @@
       }
     }
   },
-  "generated_at": "2026-07-07T17:13:45.841911+00:00",
+  "generated_at": "2026-07-08T16:38:09.947794+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",

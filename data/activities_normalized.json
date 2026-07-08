@@ -28702,5 +28702,18 @@
     "start_date_local": "2026-07-05T18:30:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 19100.9,
+    "elevation_gain": 633.0,
+    "id": "19230765176",
+    "moving_time": 17057.0,
+    "name": "Schmitten - Der Schmittenhof Und Nebenhaus",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-08T11:18:25Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
