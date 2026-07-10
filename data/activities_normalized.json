@@ -28715,5 +28715,31 @@
     "start_date_local": "2026-07-08T11:18:25Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 72188.5,
+    "elevation_gain": 1695.0,
+    "id": "19245943759",
+    "moving_time": 14630.0,
+    "name": "Gro\u00dfglockner \ud83d\udeb5\ud83c\udffc\u200d\u2640\ufe0f\ud83d\udeb5\ud83c\udffb\u200d\u2642\ufe0f\ud83c\udde6\ud83c\uddf9",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-09T15:14:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 8213.9,
+    "elevation_gain": 59.7,
+    "id": "19257916533",
+    "moving_time": 6488.0,
+    "name": "Rusle rundt innsj\u00f8en i Bled",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-10T15:39:07Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
