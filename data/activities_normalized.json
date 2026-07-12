@@ -28754,5 +28754,18 @@
     "start_date_local": "2026-07-11T12:21:25Z",
     "type": "Kayaking",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 51167.1,
+    "elevation_gain": 698.0,
+    "id": "19273164367",
+    "moving_time": 7824.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-11T17:28:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
