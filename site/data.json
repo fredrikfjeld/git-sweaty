@@ -19916,6 +19916,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19273164367",
       "year": 2026
+    },
+    {
+      "date": "2026-07-12",
+      "hour": 13,
+      "name": "Over Vr\u0161i\u010d-passet og innom Italia \ud83c\uddee\ud83c\uddf9 \u26f0\ufe0f",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19286275803",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35850,6 +35859,15 @@
           "distance": 51167.1,
           "elevation_gain": 698.0,
           "moving_time": 7824.0
+        },
+        "2026-07-12": {
+          "activity_ids": [
+            "19286275803"
+          ],
+          "count": 1,
+          "distance": 91264.8,
+          "elevation_gain": 1837.0,
+          "moving_time": 17170.0
         }
       },
       "Run": {
@@ -36399,7 +36417,7 @@
       }
     }
   },
-  "generated_at": "2026-07-12T15:59:03.403846+00:00",
+  "generated_at": "2026-07-13T17:12:04.349378+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",

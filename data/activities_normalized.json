@@ -28767,5 +28767,18 @@
     "start_date_local": "2026-07-11T17:28:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 91264.8,
+    "elevation_gain": 1837.0,
+    "id": "19286275803",
+    "moving_time": 17170.0,
+    "name": "Over Vr\u0161i\u010d-passet og innom Italia \ud83c\uddee\ud83c\uddf9 \u26f0\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-12T13:07:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
