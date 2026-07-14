@@ -28780,5 +28780,18 @@
     "start_date_local": "2026-07-12T13:07:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 14600.8,
+    "elevation_gain": 848.9,
+    "id": "19298473905",
+    "moving_time": 15563.0,
+    "name": "Tur opp p\u00e5 Vi\u0161evnik",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-13T13:43:43Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

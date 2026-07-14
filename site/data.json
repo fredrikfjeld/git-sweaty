@@ -19925,6 +19925,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19286275803",
       "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 13,
+      "name": "Tur opp p\u00e5 Vi\u0161evnik",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19298473905",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35545,6 +35554,15 @@
           "distance": 19100.9,
           "elevation_gain": 633.0,
           "moving_time": 17057.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "19298473905"
+          ],
+          "count": 1,
+          "distance": 14600.8,
+          "elevation_gain": 848.9,
+          "moving_time": 15563.0
         }
       },
       "IceSkate": {
@@ -36417,7 +36435,7 @@
       }
     }
   },
-  "generated_at": "2026-07-13T17:12:04.349378+00:00",
+  "generated_at": "2026-07-14T16:13:33.966541+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
