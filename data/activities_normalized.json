@@ -28793,5 +28793,18 @@
     "start_date_local": "2026-07-13T13:43:43Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 3090.3,
+    "elevation_gain": 81.0,
+    "id": "19327990520",
+    "moving_time": 3276.0,
+    "name": "Vi tsjekker st\u00e5a i Tsjekkia",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-15T17:59:59Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
