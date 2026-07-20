@@ -28806,5 +28806,18 @@
     "start_date_local": "2026-07-15T17:59:59Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 55849.7,
+    "elevation_gain": 769.0,
+    "id": "19379219025",
+    "moving_time": 7810.0,
+    "name": "Rotnesrunden",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-19T16:04:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
