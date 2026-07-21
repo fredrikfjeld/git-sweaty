@@ -28819,5 +28819,44 @@
     "start_date_local": "2026-07-19T16:04:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 4175.7,
+    "elevation_gain": 66.8,
+    "id": "19391004213",
+    "moving_time": 998.0,
+    "name": "Byseterm\u00e5san - B\u00f8rter",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-20T14:07:27Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 989.7,
+    "elevation_gain": 0.0,
+    "id": "19391006665",
+    "moving_time": 1477.0,
+    "name": "Packraft p\u00e5 B\u00f8rter",
+    "raw_activity_type": "Kayaking",
+    "raw_type": "Kayaking",
+    "start_date_local": "2026-07-20T14:45:22Z",
+    "type": "Kayaking",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 4172.7,
+    "elevation_gain": 105.9,
+    "id": "19391010410",
+    "moving_time": 1061.0,
+    "name": "B\u00f8rter - Byseterm\u00e5san",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-20T17:20:26Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
