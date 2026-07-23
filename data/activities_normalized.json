@@ -28858,5 +28858,18 @@
     "start_date_local": "2026-07-20T17:20:26Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 6508.5,
+    "elevation_gain": 301.5,
+    "id": "19423224779",
+    "moving_time": 6918.0,
+    "name": "Liten kveldstur til Linndalsvatnet og opp mot Tuva",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-22T19:17:45Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
