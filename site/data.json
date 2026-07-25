@@ -19988,6 +19988,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19423224779",
       "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 13,
+      "name": "Afternoon Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/19460969323",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36532,10 +36541,21 @@
           "elevation_gain": 0.0,
           "moving_time": 1391.0
         }
+      },
+      "Workout": {
+        "2026-07-25": {
+          "activity_ids": [
+            "19460969323"
+          ],
+          "count": 1,
+          "distance": 11209.9,
+          "elevation_gain": 106.8,
+          "moving_time": 7682.0
+        }
       }
     }
   },
-  "generated_at": "2026-07-24T16:40:46.340385+00:00",
+  "generated_at": "2026-07-25T16:03:28.087237+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
