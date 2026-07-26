@@ -28877,12 +28877,25 @@
     "distance": 11209.9,
     "elevation_gain": 106.8,
     "id": "19460969323",
-    "moving_time": 7682.0,
-    "name": "Afternoon Workout",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
+    "moving_time": 7712.0,
+    "name": "Fiske i Dalvatnet",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
     "start_date_local": "2026-07-25T13:01:05Z",
-    "type": "Workout",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 5961.4,
+    "elevation_gain": 595.0,
+    "id": "19472971419",
+    "moving_time": 7738.0,
+    "name": "Nordheia",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-26T12:17:24Z",
+    "type": "Hike",
     "year": 2026
   }
 ]
