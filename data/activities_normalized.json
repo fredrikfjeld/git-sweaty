@@ -28923,5 +28923,18 @@
     "start_date_local": "2026-07-28T12:01:31Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 9918.6,
+    "elevation_gain": 356.2,
+    "id": "19520477818",
+    "moving_time": 5415.0,
+    "name": "Fiske",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-29T19:24:30Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
