@@ -28936,5 +28936,18 @@
     "start_date_local": "2026-07-29T19:24:30Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 39692.6,
+    "elevation_gain": 672.0,
+    "id": "19543245943",
+    "moving_time": 6439.0,
+    "name": "Svartskog mot klokka",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-31T14:21:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
