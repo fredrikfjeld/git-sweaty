@@ -29014,5 +29014,44 @@
     "start_date_local": "2026-08-04T16:08:48Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 3338.0,
+    "elevation_gain": 10.4,
+    "id": "19609028737",
+    "moving_time": 507.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-08-05T08:25:15Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19614296048",
+    "moving_time": 2021.0,
+    "name": "Afternoon HIIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-08-05T17:12:13Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 3334.0,
+    "elevation_gain": 79.7,
+    "id": "19614793198",
+    "moving_time": 615.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-08-05T16:09:41Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
