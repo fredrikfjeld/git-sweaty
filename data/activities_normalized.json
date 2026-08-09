@@ -29053,5 +29053,18 @@
     "start_date_local": "2026-08-05T16:09:41Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 8177.5,
+    "elevation_gain": 195.0,
+    "id": "19668460746",
+    "moving_time": 3193.0,
+    "name": "Brannfjell",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-09T14:19:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
