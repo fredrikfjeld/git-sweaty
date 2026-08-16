@@ -29209,5 +29209,18 @@
     "start_date_local": "2026-08-15T14:05:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 4023.3,
+    "elevation_gain": 65.9,
+    "id": "19768103383",
+    "moving_time": 4939.0,
+    "name": "Sopptur",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-16T13:21:58Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
