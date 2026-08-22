@@ -29326,5 +29326,18 @@
     "start_date_local": "2026-08-20T16:25:27Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 7312.0,
+    "elevation_gain": 87.2,
+    "id": "19849100321",
+    "moving_time": 1179.0,
+    "name": "Oslo rundtur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-08-22T10:21:31Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]

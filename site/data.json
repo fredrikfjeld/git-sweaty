@@ -20303,6 +20303,15 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/19824330322",
       "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 10,
+      "name": "Oslo rundtur",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/19849100321",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35984,6 +35993,15 @@
           "distance": 6870.0,
           "elevation_gain": 90.39999999999999,
           "moving_time": 1195.0
+        },
+        "2026-08-22": {
+          "activity_ids": [
+            "19849100321"
+          ],
+          "count": 1,
+          "distance": 7312.0,
+          "elevation_gain": 87.2,
+          "moving_time": 1179.0
         }
       },
       "GravelRide": {
@@ -37081,7 +37099,7 @@
       }
     }
   },
-  "generated_at": "2026-08-21T15:31:21.285359+00:00",
+  "generated_at": "2026-08-22T15:19:18.458669+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
