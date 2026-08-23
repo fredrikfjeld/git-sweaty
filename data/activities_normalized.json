@@ -29339,5 +29339,57 @@
     "start_date_local": "2026-08-22T10:21:31Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 10552.0,
+    "elevation_gain": 225.6,
+    "id": "19857171028",
+    "moving_time": 1561.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-08-22T18:35:49Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 10471.9,
+    "elevation_gain": 236.1,
+    "id": "19857482900",
+    "moving_time": 1756.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-22T18:39:03Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 11388.0,
+    "elevation_gain": 108.8,
+    "id": "19857171599",
+    "moving_time": 1468.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-08-23T01:06:11Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 11114.1,
+    "elevation_gain": 97.6,
+    "id": "19857233291",
+    "moving_time": 1592.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-23T01:08:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

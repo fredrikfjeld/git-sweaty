@@ -20312,6 +20312,42 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/19849100321",
       "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 18,
+      "name": "Oslo tur",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/19857171028",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19857482900",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 1,
+      "name": "Oslo tur",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/19857171599",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 1,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19857233291",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35996,12 +36032,22 @@
         },
         "2026-08-22": {
           "activity_ids": [
-            "19849100321"
+            "19849100321",
+            "19857171028"
+          ],
+          "count": 2,
+          "distance": 17864.0,
+          "elevation_gain": 312.8,
+          "moving_time": 2740.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19857171599"
           ],
           "count": 1,
-          "distance": 7312.0,
-          "elevation_gain": 87.2,
-          "moving_time": 1179.0
+          "distance": 11388.0,
+          "elevation_gain": 108.8,
+          "moving_time": 1468.0
         }
       },
       "GravelRide": {
@@ -36521,6 +36567,24 @@
           "distance": 43515.3,
           "elevation_gain": 551.0,
           "moving_time": 5818.0
+        },
+        "2026-08-22": {
+          "activity_ids": [
+            "19857482900"
+          ],
+          "count": 1,
+          "distance": 10471.9,
+          "elevation_gain": 236.1,
+          "moving_time": 1756.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19857233291"
+          ],
+          "count": 1,
+          "distance": 11114.1,
+          "elevation_gain": 97.6,
+          "moving_time": 1592.0
         }
       },
       "Run": {
@@ -37099,7 +37163,7 @@
       }
     }
   },
-  "generated_at": "2026-08-22T15:19:18.458669+00:00",
+  "generated_at": "2026-08-23T15:20:37.038426+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
