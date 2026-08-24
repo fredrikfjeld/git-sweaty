@@ -29391,5 +29391,44 @@
     "start_date_local": "2026-08-23T01:08:03Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 47688.9,
+    "elevation_gain": 722.0,
+    "id": "19867429665",
+    "moving_time": 5890.0,
+    "name": "Riste ut litt r\u00f8dvin av beina",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-23T16:12:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 3255.0,
+    "elevation_gain": 9.4,
+    "id": "19879396809",
+    "moving_time": 466.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-08-24T08:38:23Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 3349.0,
+    "elevation_gain": 78.4,
+    "id": "19879397171",
+    "moving_time": 628.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-08-24T16:04:56Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]

@@ -20348,6 +20348,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19857233291",
       "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 16,
+      "name": "Riste ut litt r\u00f8dvin av beina",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19867429665",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-24",
+      "hour": 8,
+      "name": "Oslo tur",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/19879396809",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-24",
+      "hour": 16,
+      "name": "Oslo tur",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/19879397171",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36048,6 +36075,16 @@
           "distance": 11388.0,
           "elevation_gain": 108.8,
           "moving_time": 1468.0
+        },
+        "2026-08-24": {
+          "activity_ids": [
+            "19879396809",
+            "19879397171"
+          ],
+          "count": 2,
+          "distance": 6604.0,
+          "elevation_gain": 87.80000000000001,
+          "moving_time": 1094.0
         }
       },
       "GravelRide": {
@@ -36579,12 +36616,13 @@
         },
         "2026-08-23": {
           "activity_ids": [
-            "19857233291"
+            "19857233291",
+            "19867429665"
           ],
-          "count": 1,
-          "distance": 11114.1,
-          "elevation_gain": 97.6,
-          "moving_time": 1592.0
+          "count": 2,
+          "distance": 58803.0,
+          "elevation_gain": 819.6,
+          "moving_time": 7482.0
         }
       },
       "Run": {
@@ -37163,7 +37201,7 @@
       }
     }
   },
-  "generated_at": "2026-08-23T15:20:37.038426+00:00",
+  "generated_at": "2026-08-24T15:37:22.086669+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
