@@ -29560,5 +29560,57 @@
     "start_date_local": "2026-09-01T08:29:18Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 3309.0,
+    "elevation_gain": 68.2,
+    "id": "19996186221",
+    "moving_time": 553.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-01T12:21:29Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 3407.0,
+    "elevation_gain": 11.8,
+    "id": "20006090906",
+    "moving_time": 493.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-02T08:53:00Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 3438.0,
+    "elevation_gain": 79.1,
+    "id": "20006199492",
+    "moving_time": 596.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-02T15:59:22Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 8248.0,
+    "elevation_gain": 186.8,
+    "id": "20007689830",
+    "moving_time": 3049.0,
+    "name": "Ettermiddag med l\u00f8ping",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-02T17:26:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
