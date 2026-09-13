@@ -29794,5 +29794,18 @@
     "start_date_local": "2026-09-10T20:00:48Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 109449.0,
+    "elevation_gain": 1432.0,
+    "id": "20160700627",
+    "moving_time": 14959.0,
+    "name": "Hemnes grillbar \ud83c\udf5f\u2600\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-13T12:39:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
