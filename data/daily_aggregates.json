@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:39:24.574337+00:00",
+  "generated_at": "2026-09-17T18:49:27.382020+00:00",
   "years": {
     "2010": {
       "Ride": {
@@ -15831,6 +15831,16 @@
           "distance": 6570.0,
           "elevation_gain": 78.2,
           "moving_time": 1069.0
+        },
+        "2026-09-17": {
+          "activity_ids": [
+            "20214148932",
+            "20214151717"
+          ],
+          "count": 2,
+          "distance": 6829.0,
+          "elevation_gain": 97.5,
+          "moving_time": 1153.0
         }
       },
       "GravelRide": {
