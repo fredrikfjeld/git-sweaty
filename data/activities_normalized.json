@@ -29898,5 +29898,31 @@
     "start_date_local": "2026-09-17T15:39:30Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 1857.0,
+    "elevation_gain": 6.8,
+    "id": "20236321058",
+    "moving_time": 246.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-19T09:35:51Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 2081.0,
+    "elevation_gain": 63.5,
+    "id": "20236544452",
+    "moving_time": 358.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-19T10:16:49Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
