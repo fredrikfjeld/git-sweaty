@@ -30028,5 +30028,18 @@
     "start_date_local": "2026-09-24T17:09:50Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 7283.3,
+    "elevation_gain": 206.0,
+    "id": "20338804873",
+    "moving_time": 3620.0,
+    "name": "Sjekke ut nytt nabolag \ud83c\udfc3\u200d\u2642\ufe0f\u200d\u27a1\ufe0f\ud83c\udfc3\u200d\u2640\ufe0f\u200d\u27a1\ufe0f\ud83c\udf32\ud83c\udf44\u200d\ud83d\udfeb",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-09-26T15:41:42Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
