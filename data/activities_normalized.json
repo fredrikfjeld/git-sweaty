@@ -30041,5 +30041,44 @@
     "start_date_local": "2026-09-26T15:41:42Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 6750.0,
+    "elevation_gain": 234.0,
+    "id": "20350016594",
+    "moving_time": 1200.0,
+    "name": "Bike tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-27T12:54:35Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 7177.0,
+    "elevation_gain": 101.7,
+    "id": "20350831499",
+    "moving_time": 1065.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-09-27T14:08:08Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 958.8,
+    "elevation_gain": 80.9,
+    "id": "20353071717",
+    "moving_time": 1635.0,
+    "name": "Trasop",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-09-27T13:20:38Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
