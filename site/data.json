@@ -20825,6 +20825,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/20353071717",
       "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 8,
+      "name": "Oslo tur",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/20360225804",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36718,6 +36727,15 @@
           "distance": 13927.0,
           "elevation_gain": 335.7,
           "moving_time": 2265.0
+        },
+        "2026-09-28": {
+          "activity_ids": [
+            "20360225804"
+          ],
+          "count": 1,
+          "distance": 3330.0,
+          "elevation_gain": 10.9,
+          "moving_time": 481.0
         }
       },
       "GravelRide": {
@@ -37933,7 +37951,7 @@
       }
     }
   },
-  "generated_at": "2026-09-27T18:54:27.252875+00:00",
+  "generated_at": "2026-09-28T21:04:43.279479+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
