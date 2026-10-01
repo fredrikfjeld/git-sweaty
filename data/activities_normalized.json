@@ -30145,5 +30145,44 @@
     "start_date_local": "2026-09-30T20:36:12Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 3328.0,
+    "elevation_gain": 10.4,
+    "id": "20407308169",
+    "moving_time": 460.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-01T08:58:28Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 3359.0,
+    "elevation_gain": 79.1,
+    "id": "20407348563",
+    "moving_time": 620.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-01T15:59:26Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-01",
+    "distance": 36075.8,
+    "elevation_gain": 547.0,
+    "id": "20409160054",
+    "moving_time": 5271.0,
+    "name": "Svartskogrunden \ud83c\udf42",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-01T17:04:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
