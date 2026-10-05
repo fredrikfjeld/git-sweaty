@@ -30210,5 +30210,44 @@
     "start_date_local": "2026-10-02T16:23:50Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-05",
+    "distance": 3297.0,
+    "elevation_gain": 10.2,
+    "id": "20457917579",
+    "moving_time": 472.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-05T09:03:28Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-05",
+    "distance": 3353.0,
+    "elevation_gain": 79.0,
+    "id": "20460541304",
+    "moving_time": 605.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-05T15:48:33Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-05",
+    "distance": 3912.0,
+    "elevation_gain": 258.0,
+    "id": "20461515297",
+    "moving_time": 2201.0,
+    "name": "Kort og tidvis hardt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-05T16:49:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
