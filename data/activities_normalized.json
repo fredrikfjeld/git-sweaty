@@ -30457,5 +30457,83 @@
     "start_date_local": "2026-10-20T09:28:24Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 3230.0,
+    "elevation_gain": 65.2,
+    "id": "20666430266",
+    "moving_time": 613.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-20T16:39:52Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 6727.0,
+    "elevation_gain": 108.7,
+    "id": "20671812843",
+    "moving_time": 1064.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-21T08:31:26Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 4522.0,
+    "elevation_gain": 11.6,
+    "id": "20674672300",
+    "moving_time": 674.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-21T11:11:12Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 3215.0,
+    "elevation_gain": 64.8,
+    "id": "20676695298",
+    "moving_time": 555.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-21T15:05:19Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 3341.0,
+    "elevation_gain": 10.4,
+    "id": "20685029132",
+    "moving_time": 474.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-22T08:55:49Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 7014.0,
+    "elevation_gain": 124.2,
+    "id": "20690785708",
+    "moving_time": 1144.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-22T15:50:00Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
