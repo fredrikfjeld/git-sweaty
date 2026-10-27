@@ -30574,5 +30574,44 @@
     "start_date_local": "2026-10-26T09:00:11Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 3343.0,
+    "elevation_gain": 69.6,
+    "id": "20747151646",
+    "moving_time": 582.0,
+    "name": "Bosch eBike Tour",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-26T18:20:31Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 3351.0,
+    "elevation_gain": 10.5,
+    "id": "20748249106",
+    "moving_time": 476.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-27T08:52:34Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 3326.0,
+    "elevation_gain": 77.7,
+    "id": "20754159011",
+    "moving_time": 618.0,
+    "name": "Oslo tur",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-10-27T16:32:14Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
