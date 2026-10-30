@@ -21194,6 +21194,24 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/20754159011",
       "year": 2026
+    },
+    {
+      "date": "2026-10-29",
+      "hour": 8,
+      "name": "Oslo tur",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/20784978238",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-29",
+      "hour": 17,
+      "name": "Bike tur",
+      "subtype": "EBikeRide",
+      "type": "EBikeRide",
+      "url": "https://www.strava.com/activities/20785073735",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -37259,6 +37277,16 @@
           "distance": 6677.0,
           "elevation_gain": 88.2,
           "moving_time": 1094.0
+        },
+        "2026-10-29": {
+          "activity_ids": [
+            "20784978238",
+            "20785073735"
+          ],
+          "count": 2,
+          "distance": 6650.0,
+          "elevation_gain": 88.8,
+          "moving_time": 1049.0
         }
       },
       "GravelRide": {
@@ -38519,7 +38547,7 @@
       }
     }
   },
-  "generated_at": "2026-10-29T20:04:16.959818+00:00",
+  "generated_at": "2026-10-30T19:51:07.451976+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
