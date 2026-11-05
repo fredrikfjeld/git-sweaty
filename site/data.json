@@ -21212,6 +21212,60 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/20785073735",
       "year": 2026
+    },
+    {
+      "date": "2026-11-02",
+      "hour": 8,
+      "name": "G\u00e5tur om morgenen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20863228554",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-02",
+      "hour": 16,
+      "name": "Ettermiddag med g\u00e5tur",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20863228556",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-03",
+      "hour": 15,
+      "name": "Ettermiddag med g\u00e5tur",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20863228751",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-03",
+      "hour": 8,
+      "name": "G\u00e5tur om morgenen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20863228764",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 16,
+      "name": "Ettermiddag med g\u00e5tur",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20863217639",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-04",
+      "hour": 8,
+      "name": "G\u00e5tur om morgenen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20863228585",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38469,6 +38523,36 @@
           "distance": 3090.3,
           "elevation_gain": 81.0,
           "moving_time": 3276.0
+        },
+        "2026-11-02": {
+          "activity_ids": [
+            "20863228554",
+            "20863228556"
+          ],
+          "count": 2,
+          "distance": 3462.7,
+          "elevation_gain": 26.1,
+          "moving_time": 2242.0
+        },
+        "2026-11-03": {
+          "activity_ids": [
+            "20863228751",
+            "20863228764"
+          ],
+          "count": 2,
+          "distance": 3621.1,
+          "elevation_gain": 21.200000000000003,
+          "moving_time": 2286.0
+        },
+        "2026-11-04": {
+          "activity_ids": [
+            "20863217639",
+            "20863228585"
+          ],
+          "count": 2,
+          "distance": 3780.4,
+          "elevation_gain": 21.3,
+          "moving_time": 2633.0
         }
       },
       "WeightTraining": {
@@ -38547,7 +38631,7 @@
       }
     }
   },
-  "generated_at": "2026-11-04T21:03:47.908665+00:00",
+  "generated_at": "2026-11-05T21:20:27.814146+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",

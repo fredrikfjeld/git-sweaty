@@ -30639,5 +30639,83 @@
     "start_date_local": "2026-10-29T17:03:37Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 1822.4,
+    "elevation_gain": 16.3,
+    "id": "20863228554",
+    "moving_time": 1190.0,
+    "name": "G\u00e5tur om morgenen",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-02T08:22:46Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 1640.3,
+    "elevation_gain": 9.8,
+    "id": "20863228556",
+    "moving_time": 1052.0,
+    "name": "Ettermiddag med g\u00e5tur",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-02T16:09:16Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 1833.3,
+    "elevation_gain": 6.4,
+    "id": "20863228751",
+    "moving_time": 1119.0,
+    "name": "Ettermiddag med g\u00e5tur",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-03T15:31:59Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 1787.8,
+    "elevation_gain": 14.8,
+    "id": "20863228764",
+    "moving_time": 1167.0,
+    "name": "G\u00e5tur om morgenen",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-03T08:04:48Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 1745.9,
+    "elevation_gain": 6.5,
+    "id": "20863217639",
+    "moving_time": 1230.0,
+    "name": "Ettermiddag med g\u00e5tur",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-04T16:10:20Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 2034.5,
+    "elevation_gain": 14.8,
+    "id": "20863228585",
+    "moving_time": 1403.0,
+    "name": "G\u00e5tur om morgenen",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-04T08:46:34Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
