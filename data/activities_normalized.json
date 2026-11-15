@@ -30730,5 +30730,57 @@
     "start_date_local": "2026-11-05T20:07:33Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 1791.0,
+    "elevation_gain": 6.6,
+    "id": "20994177578",
+    "moving_time": 1154.0,
+    "name": "Ettermiddag med g\u00e5tur",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-09T16:09:05Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 1844.7,
+    "elevation_gain": 14.4,
+    "id": "20994180765",
+    "moving_time": 1210.0,
+    "name": "G\u00e5tur om morgenen",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-09T08:23:23Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 1824.1,
+    "elevation_gain": 6.9,
+    "id": "20994174186",
+    "moving_time": 1034.0,
+    "name": "Ettermiddag med g\u00e5tur",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-10T16:12:00Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 1774.6,
+    "elevation_gain": 13.3,
+    "id": "20994175528",
+    "moving_time": 1125.0,
+    "name": "G\u00e5tur om morgenen",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-10T08:24:38Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

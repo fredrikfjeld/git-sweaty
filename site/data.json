@@ -21275,6 +21275,42 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20879371113",
       "year": 2026
+    },
+    {
+      "date": "2026-11-09",
+      "hour": 16,
+      "name": "Ettermiddag med g\u00e5tur",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20994177578",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-09",
+      "hour": 8,
+      "name": "G\u00e5tur om morgenen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20994180765",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-10",
+      "hour": 16,
+      "name": "Ettermiddag med g\u00e5tur",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20994174186",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-10",
+      "hour": 8,
+      "name": "G\u00e5tur om morgenen",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20994175528",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38571,6 +38607,26 @@
           "distance": 1764.1,
           "elevation_gain": 6.6,
           "moving_time": 1096.0
+        },
+        "2026-11-09": {
+          "activity_ids": [
+            "20994177578",
+            "20994180765"
+          ],
+          "count": 2,
+          "distance": 3635.7,
+          "elevation_gain": 21.0,
+          "moving_time": 2364.0
+        },
+        "2026-11-10": {
+          "activity_ids": [
+            "20994174186",
+            "20994175528"
+          ],
+          "count": 2,
+          "distance": 3598.7,
+          "elevation_gain": 20.200000000000003,
+          "moving_time": 2159.0
         }
       },
       "WeightTraining": {
@@ -38649,7 +38705,7 @@
       }
     }
   },
-  "generated_at": "2026-11-14T19:42:49.877664+00:00",
+  "generated_at": "2026-11-15T20:09:04.557079+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
