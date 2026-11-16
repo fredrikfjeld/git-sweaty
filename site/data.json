@@ -21311,6 +21311,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20994175528",
       "year": 2026
+    },
+    {
+      "date": "2026-11-16",
+      "hour": 21,
+      "name": "Zwift - Crit Cross in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21013568118",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38548,6 +38557,15 @@
           "distance": 44492.2,
           "elevation_gain": 346.0,
           "moving_time": 4821.0
+        },
+        "2026-11-16": {
+          "activity_ids": [
+            "21013568118"
+          ],
+          "count": 1,
+          "distance": 14021.0,
+          "elevation_gain": 40.0,
+          "moving_time": 1470.0
         }
       },
       "Walk": {
@@ -38705,7 +38723,7 @@
       }
     }
   },
-  "generated_at": "2026-11-15T20:09:04.557079+00:00",
+  "generated_at": "2026-11-16T23:38:55.435206+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
