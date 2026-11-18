@@ -21329,6 +21329,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/21018423815",
       "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 19,
+      "name": "Zwift - Aerobic Sustainability",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21038265543",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38575,6 +38584,15 @@
           "distance": 14021.0,
           "elevation_gain": 40.0,
           "moving_time": 1470.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21038265543"
+          ],
+          "count": 1,
+          "distance": 27126.8,
+          "elevation_gain": 328.0,
+          "moving_time": 3027.0
         }
       },
       "Walk": {
@@ -38741,7 +38759,7 @@
       }
     }
   },
-  "generated_at": "2026-11-17T22:46:55.669320+00:00",
+  "generated_at": "2026-11-18T22:29:05.226487+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
