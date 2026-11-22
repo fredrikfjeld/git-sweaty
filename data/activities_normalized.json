@@ -30821,5 +30821,18 @@
     "start_date_local": "2026-11-18T19:17:59Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 7360.1,
+    "elevation_gain": 171.1,
+    "id": "21080155221",
+    "moving_time": 3433.0,
+    "name": "L\u00f8ping om morgenen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-22T09:24:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

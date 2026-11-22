@@ -21338,6 +21338,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21038265543",
       "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 9,
+      "name": "L\u00f8ping om morgenen",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21080155221",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38187,6 +38196,15 @@
           "distance": 8190.2,
           "elevation_gain": 198.0,
           "moving_time": 3186.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21080155221"
+          ],
+          "count": 1,
+          "distance": 7360.1,
+          "elevation_gain": 171.1,
+          "moving_time": 3433.0
         }
       },
       "TrailRun": {
@@ -38759,7 +38777,7 @@
       }
     }
   },
-  "generated_at": "2026-11-21T20:46:36.059343+00:00",
+  "generated_at": "2026-11-22T20:56:06.261529+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5655217",
   "repo": "fredrikfjeld/git-sweaty",
